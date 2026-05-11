@@ -1,0 +1,28 @@
+# Quarto build output
+/.quarto/
+/_site/
+/_freeze/
+**/*.quarto_ipynb
+
+# Claude Code per-user / project context (not for public repo)
+.claude/settings.local.json
+CLAUDE.md
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+__MACOSX/
+.idea/
+.vscode/
+*.swp
+*~
+*.bak
+*.tmp
+
+# Python (image-processing helpers)
+__pycache__/
+*.pyc
+
+# Credentials safety net
+.env
+.env.local

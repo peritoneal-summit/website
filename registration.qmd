@@ -1,0 +1,58 @@
+---
+title: "Registration"
+toc: false
+---
+
+Registration will open **September 2026**, approximately one year before the Summit. This page will then list the registration link (handled externally via [Ticketino](https://www.ticketino.com/)), the full package descriptions, and the General Terms and Conditions.
+
+## Provisional packages
+
+::: {.pricing-grid}
+
+::: {.price-card}
+### Student Conference Package
+<p class="price-tbd">Pricing — coming soon</p>
+Three days · reduced rate for undergraduate and graduate students
+- Three-day conference pass
+- Meals according to program
+- All networking events except networking dinner
+- Free access to all workshops
+:::
+
+::: {.price-card}
+### Basic Conference Package
+<p class="price-tbd">Pricing — coming soon</p>
+Three days · standard rate
+- Three-day conference pass
+- Meals according to program
+- All networking events except networking dinner
+- Free access to all workshops
+:::
+
+::: {.price-card}
+### Networking Dinner
+<p class="price-tbd">Pricing — coming soon</p>
+Thursday evening · highly recommended
+- Three-course dinner
+- Beverages included
+- Premier networking opportunity
+:::
+
+::: {.price-card}
+### Accommodation
+<p class="price-tbd">Pricing — coming soon</p>
+Per night · at the conference venue
+- Breakfast included
+- Walking distance from sessions
+- Limited availability — book early once registration opens
+:::
+
+:::
+
+## Stay informed
+
+Until registration opens, the best way to stay informed about deadlines and the program is to keep an eye on this page or contact the organizers (see [Contact](contact.qmd)).
+
+## General Terms and Conditions
+
+The full GTCs will be published alongside registration in September 2026.

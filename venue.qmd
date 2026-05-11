@@ -1,0 +1,22 @@
+---
+title: "Venue"
+toc: false
+---
+
+The 2nd Peritoneal Summit takes place in **Spiez**, a small town on Lake Thun in the Bernese Oberland, Switzerland.
+
+## Getting there
+
+- **By train:** Spiez is on the Bern–Interlaken line. Direct trains from Zürich Airport take about 2 hours; Bern is 25 minutes away.
+- **By car:** Spiez is on the A8 motorway, well-signposted from Bern.
+- **From the airport:** Zürich (~2 h) and Geneva (~2.5 h) are both straightforward by train.
+
+## Accommodation
+
+Conference accommodation will be available at the venue itself and at nearby hotels. Details and a booking link will appear once registration opens (September 2026).
+
+## About Spiez
+
+Spiez sits on the southern shore of Lake Thun, with views of the surrounding alps and a medieval castle on the lakefront. The town is compact, walkable, and connected by the Bernese Oberland railways to nearby hiking and excursions (Niesen, Stockhorn, Interlaken).
+
+<!-- TODO: add venue photo, map, hotel block info -->

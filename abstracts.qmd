@@ -1,0 +1,28 @@
+---
+title: "Abstracts"
+toc: false
+---
+
+Abstract submission for the 2nd Peritoneal Summit will open in **spring 2027**. Specific deadlines, submission portal, and the abstract template will be announced here.
+
+## What we will be looking for
+
+The Summit welcomes contributions across the full breadth of peritoneal research and technology, including but not limited to:
+
+- Peritoneal immunity and tissue repair
+- Peritoneal carcinomatosis, metastasis, and surgical oncology
+- Endometriosis and peritoneal pathology
+- Peritoneal dialysis, fibrosis, and mesothelial-to-mesenchymal transition
+- Imaging, single-cell, and spatial methods
+- Biomaterials, surgical mesh, and adhesion prevention
+- Translational and clinical studies
+
+## Format
+
+The 2025 edition included oral presentations selected from submitted abstracts, a flash-talk session, and a poster session. We anticipate a similar format for 2027.
+
+## Awards
+
+Best-poster and best-talk awards will be granted, as they were at the 2025 Summit. Details will follow with the call for abstracts.
+
+<!-- TODO: add: portal URL, deadlines, template download, review committee -->

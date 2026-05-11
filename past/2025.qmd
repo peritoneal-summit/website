@@ -1,0 +1,30 @@
+---
+title: "1st Peritoneal Summit · Pontresina 2025"
+toc: false
+---
+
+The inaugural Peritoneal Summit took place from **15 – 17 January 2025** at the Kongresszentrum in **Pontresina**, Switzerland, jointly organized by the **University of Bern** and **ETH Zürich**.
+
+<!-- TODO: replace with content from the funding-agency report:
+     - paragraph on the summit's framing and goals
+     - participant numbers, demographic mix, institutions
+     - session highlights / standout talks
+     - workshop topics
+     - what the funders need to know about the impact
+-->
+
+## Highlights
+
+<!-- TODO: 2-3 short bullets summarizing the meeting. -->
+
+## Award winners
+
+<!-- TODO: list of award winners with photos in assets/past/2025/ -->
+
+## Group photo
+
+<!-- TODO: ![](../assets/past/2025/group-photo.jpg) -->
+
+## Acknowledgements
+
+<!-- TODO: funding agencies, sponsoring societies, host institutions -->

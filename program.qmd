@@ -1,0 +1,39 @@
+---
+title: "Program"
+toc: true
+---
+
+The detailed scientific program for the 2nd Peritoneal Summit will be released in **spring 2027**, approximately six months before the event.
+
+The 1st Summit (Pontresina 2025) followed a three-day format with keynote talks, themed sessions, workshops, and dedicated networking time — we are building on the same structure for 2027 with an expanded scope.
+
+## Provisional structure — September 2027
+
+::: {.callout-note}
+The information below is indicative and will be replaced by the full program once finalized.
+:::
+
+### Wednesday 8 September 2027
+
+Arrival and welcome reception. Evening campfire session for early-career scientists.
+
+### Thursday 9 September 2027
+
+Full scientific day — keynote talks, themed sessions (peritoneal immunity, cancer, fibrosis, dialysis, endometriosis, bioengineering), poster session, networking dinner.
+
+### Friday 10 September 2027
+
+Workshops, late-breaking talks, awards, and closing.
+
+## Themes
+
+The program is structured around the major scientific fronts in peritoneal research:
+
+- **Peritoneal immunity and tissue repair**
+- **Peritoneal cancer and metastasis**
+- **Endometriosis**
+- **Peritoneal dialysis and fibrosis**
+- **Imaging, single-cell, and spatial methods**
+- **Biomaterials and surgical innovation**
+
+<!-- TODO: replace with full block schedule once confirmed -->

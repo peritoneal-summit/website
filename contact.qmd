@@ -1,0 +1,20 @@
+---
+title: "Contact"
+toc: false
+---
+
+## Organizing committee
+
+For any questions about the Peritoneal Summit — program, abstracts, registration, sponsorship, or media — please contact:
+
+**Joel Zindel** (lead organizer)
+[joel.zindel@biol.ethz.ch](mailto:joel.zindel@biol.ethz.ch)
+ETH Zürich · Institute of Molecular Health Sciences
+
+## Co-organizers
+
+- **Inge K. Herrmann** — ETH Zürich / Empa
+- **Erin Greaves** — Warwick Medical School
+- **Sarah Herrick** — University of Manchester
+
+<!-- TODO: optional — add direct emails for co-organizers once confirmed -->

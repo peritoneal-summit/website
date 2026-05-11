@@ -1,0 +1,48 @@
+---
+pagetitle: "Peritoneal Summit 2027 — Spiez, Switzerland"
+toc: false
+---
+
+::: {.summit-hero}
+
+::: {.save-the-date}
+Save the date
+:::
+
+# 2nd Peritoneal Summit
+
+::: {.summit-date}
+8 – 10 September 2027
+:::
+
+::: {.summit-venue}
+Spiez, Switzerland
+:::
+
+The leading international meeting on peritoneal research and technology, connecting peritoneum enthusiasts across disciplines.
+
+::: {.cta-buttons}
+[See the program](program.qmd){.btn .btn-outline-primary}
+[About the venue](venue.qmd){.btn .btn-outline-primary}
+:::
+
+:::
+
+## About the Summit
+
+The Peritoneal Summit brings together surgeons, immunologists, oncologists, nephrologists, bioengineers, and basic scientists with a shared interest in the peritoneum — a tissue that bridges immunity, repair, fibrosis, and disease.
+
+The inaugural Summit took place in January 2025 in Pontresina, Switzerland ([read about the 2025 edition](past/2025.qmd)). The 2nd Summit returns in September 2027, this time in scenic Spiez on Lake Thun, with an expanded program of keynote talks, workshops, and campfire sessions for early-career researchers.
+
+## What to expect
+
+- **Expert keynote speakers and chairs** across peritoneal biology, surgery, and bioengineering
+- **Interactive workshops** on imaging, single-cell, and translational methods
+- **Campfire sessions** — informal evening gatherings designed especially for early-career scientists travelling alone
+- **A scenic alpine setting** in Spiez, walking distance from the train station and 30 minutes from Bern
+
+## Registration
+
+Registration opens **September 2026** (~12 months before the summit). Subscribe to updates or follow the organizers on LinkedIn for announcements.
+
+[Registration details →](registration.qmd){.btn .btn-primary}

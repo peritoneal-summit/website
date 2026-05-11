@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: _site
+  # CNAME deferred until DNS is moved away from Durable.
+  # Uncomment when ready to enforce peritoneal-summit.com as the live domain.
+  # resources:
+  #   - CNAME
+
+website:
+  title: "Peritoneal Summit 2027"
+  description: "The leading international meeting on peritoneal research and technology"
+  site-url: https://peritoneal-summit.com
+  favicon: ""
+  navbar:
+    background: light
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: program.qmd
+        text: Program
+      - href: speakers.qmd
+        text: Speakers
+      - href: abstracts.qmd
+        text: Abstracts
+      - href: registration.qmd
+        text: Registration
+      - href: venue.qmd
+        text: Venue
+      - href: contact.qmd
+        text: Contact
+  page-footer:
+    background: light
+    left: "© 2026 Peritoneal Summit · Organized by Joel Zindel, Inge K. Herrmann, Erin Greaves, Sarah Herrick"
+    right: "[1st Summit (Pontresina 2025)](/past/2025.qmd) · Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      - flatly
+      - theme-summit.scss
+    toc: false
+    code-link: true
+    grid:
+      body-width: 960px
+    link-external-newwindow: true
