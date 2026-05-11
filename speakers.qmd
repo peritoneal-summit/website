@@ -33,13 +33,66 @@ toc: false
 
 :::
 
-## Confirmed keynote speakers
+## Confirmed speakers
 
-The keynote line-up for 2027 is being assembled and will be announced in **2026**.
+The full keynote line-up for 2027 is being assembled. The following speakers have confirmed their participation so far:
 
-<!-- TODO: replace with confirmed keynote cards as speakers are confirmed -->
+::: {.people-grid}
 
-## Endorsements from the 2025 Summit
+::: {.person-card}
+<!-- ![](assets/speakers/judith-allen.jpg){.person-photo} -->
+### Judith Allen
+<p class="role">Confirmed speaker</p>
+<p class="affiliation">University of Manchester</p>
+:::
+
+::: {.person-card}
+<!-- ![](assets/speakers/samuel-carmichael.jpg){.person-photo} -->
+### Samuel Carmichael II
+<p class="role">Confirmed speaker</p>
+<p class="affiliation">Wake Forest School of Medicine</p>
+:::
+
+::: {.person-card}
+<!-- ![](assets/speakers/justin-deniset.jpg){.person-photo} -->
+### Justin Deniset
+<p class="role">Confirmed speaker</p>
+<p class="affiliation">University of Calgary</p>
+:::
+
+::: {.person-card}
+<!-- ![](assets/speakers/paul-kubes.jpg){.person-photo} -->
+### Paul Kubes
+<p class="role">Confirmed speaker</p>
+<p class="affiliation">University of Calgary · Snyder Institute for Chronic Diseases</p>
+:::
+
+::: {.person-card}
+<!-- ![](assets/speakers/honami-naora.jpg){.person-photo} -->
+### Honami Naora
+<p class="role">Confirmed speaker</p>
+<p class="affiliation">MD Anderson Cancer Center · Department of Molecular Oncology</p>
+:::
+
+::: {.person-card}
+<!-- ![](assets/speakers/gwendalyn-randolph.jpg){.person-photo} -->
+### Gwendalyn J. Randolph
+<p class="role">Confirmed speaker</p>
+<p class="affiliation">Washington University in St. Louis</p>
+:::
+
+::: {.person-card}
+<!-- ![](assets/speakers/carl-weidinger.jpg){.person-photo} -->
+### Carl Weidinger
+<p class="role">Confirmed speaker</p>
+<p class="affiliation">Charité — Universitätsmedizin Berlin</p>
+:::
+
+:::
+
+More speakers will be added as confirmations come in.
+
+## Endorsements from the 1st Summit
 
 > *"The programme looks very exciting!"* — Erin Greaves
 >
