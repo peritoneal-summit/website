@@ -8,24 +8,28 @@ toc: false
 ::: {.people-grid}
 
 ::: {.person-card}
+<!-- ![](assets/speakers/joel-zindel.jpg){.person-photo} -->
 ### Joel Zindel
 <p class="role">Co-organizer</p>
 <p class="affiliation">ETH Zürich · Institute of Molecular Health Sciences</p>
 :::
 
 ::: {.person-card}
+<!-- ![](assets/speakers/inge-herrmann.jpg){.person-photo} -->
 ### Inge K. Herrmann
 <p class="role">Co-organizer</p>
 <p class="affiliation">ETH Zürich / Empa · Particles–Biology Interactions</p>
 :::
 
 ::: {.person-card}
+<!-- ![](assets/speakers/erin-greaves.jpg){.person-photo} -->
 ### Erin Greaves
 <p class="role">Co-organizer</p>
 <p class="affiliation">Warwick Medical School · Endometriosis</p>
 :::
 
 ::: {.person-card}
+![](assets/speakers/sarah-herrick.jpg){.person-photo}
 ### Sarah Herrick
 <p class="role">Co-organizer</p>
 <p class="affiliation">University of Manchester · MMT & Peritoneal Dialysis</p>
@@ -40,7 +44,7 @@ The full keynote line-up for 2027 is being assembled. The following speakers hav
 ::: {.people-grid}
 
 ::: {.person-card}
-<!-- ![](assets/speakers/judith-allen.jpg){.person-photo} -->
+![](assets/speakers/judith-allen.jpg){.person-photo}
 ### Judith Allen
 <p class="role">Confirmed speaker</p>
 <p class="affiliation">University of Manchester</p>
