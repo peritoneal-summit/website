@@ -31,7 +31,7 @@ website:
         text: Contact
   page-footer:
     background: light
-    left: "© 2026 Peritoneal Summit · Organized by Joel Zindel, Inge K. Herrmann, Erin Greaves, Sarah Herrick"
+    left: "© 2026 Peritoneal Summit · Organized by Erin Greaves, Sarah Herrick, Inge K. Herrmann, Joel Zindel"
     right: "[1st Summit (Pontresina 2025)](/past/2025.qmd) · Built with [Quarto](https://quarto.org)"
 
 format:

@@ -3,25 +3,61 @@ title: "Venue"
 toc: false
 ---
 
-The 2nd Peritoneal Summit takes place at **[Hotel Seaside](https://www.hotel-seaside.ch/)** in **Spiez**, a small town on Lake Thun in the Bernese Oberland, Switzerland.
+![](assets/venue/seminar-room-gabled.webp)
 
-![Plenary seminar room at Hotel Seaside, Spiez](assets/venue/seminar-room.webp)
+The 2nd Peritoneal Summit takes place at **[Hotel Seaside](https://www.hotel-seaside.ch/)** in **Spiez**, a small town on Lake Thun in the Bernese Oberland, Switzerland.
 
 ## Hotel Seaside
 
 Schachenstrasse 43, 3700 Spiez, Switzerland\
 [hotel-seaside.ch](https://www.hotel-seaside.ch/)
 
-The hotel sits steps from Lake Thun and offers everything we need in one place: a modern plenary room, breakout spaces, on-site dining, and rooms with lake or mountain views. Coffee breaks happen with a view of the alps.
+The hotel sits steps from Lake Thun and offers everything we need in one place: a panoramic plenary hall, a modern seminar room for breakouts and workshops, on-site dining for breaks, lunches, and the networking dinner, and rooms with lake or mountain views. Coffee breaks happen with a view of the alps.
+
+## Plenary and seminar rooms
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6}
-![Breakout / smaller-session room](assets/venue/breakout-room.webp)
+![Plenary hall — gabled wooden roof with panoramic lake views](assets/venue/seminar-room-tables.webp)
 :::
 
 ::: {.g-col-12 .g-col-md-6}
-![Stube — networking dinner setting](assets/venue/dining-room.webp)
+![Secondary seminar room with projection setup](assets/venue/seminar-room.webp)
+:::
+
+:::
+
+## Dining and networking
+
+The hotel hosts coffee breaks, lunches, and the networking dinner on-site. The main dining hall opens onto the gardens and lake.
+
+![Dining hall](assets/venue/dining-hall.webp)
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+![Networking dinner — Stube setting](assets/venue/dining-room.webp)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![Outdoor barbecue evening](assets/venue/outdoor-bbq.webp)
+:::
+
+:::
+
+## Accommodation
+
+Conference rates at Hotel Seaside will be available to registered attendees. Booking instructions and the rate code will be posted once registration opens (September 2026). If the on-site block fills, Spiez has several walking-distance hotels and B&Bs we can recommend.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+![Guest room with lake-facing balcony](assets/venue/hotel-room.webp)
+:::
+
+::: {.g-col-12 .g-col-md-6}
+![Guest room with twin washbasins](assets/venue/hotel-room-bath.webp)
 :::
 
 :::
@@ -31,12 +67,6 @@ The hotel sits steps from Lake Thun and offers everything we need in one place: 
 - **By train:** Spiez is on the Bern–Interlaken line. From Zürich Airport about 2 hours; from Bern 25 minutes. The hotel is a short walk from the station.
 - **By car:** A8 motorway, well-signposted from Bern.
 - **From the airport:** Zürich (~2 h by train) and Geneva (~2.5 h) are both straightforward.
-
-## Accommodation
-
-Conference rates at Hotel Seaside will be available to registered attendees. Booking instructions and the rate code will be posted once registration opens (September 2026).
-
-If the hotel block fills, Spiez has several other walking-distance hotels and B&Bs we can recommend.
 
 ## About Spiez
 
