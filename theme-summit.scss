@@ -185,6 +185,73 @@ body {
   margin: 0.2rem 0;
 }
 
+/* Program schedule */
+.schedule {
+  margin: 1.25rem 0 2.5rem;
+  border-top: 1px solid $border-color;
+}
+
+.schedule .slot {
+  display: grid;
+  grid-template-columns: 7.5rem 1fr;
+  gap: 1.25rem;
+  padding: 0.8rem 0;
+  border-bottom: 1px solid $border-color;
+}
+
+.schedule .time {
+  color: $primary;
+  font-weight: 600;
+  font-size: 0.92rem;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.schedule .event {
+  margin: 0;
+  color: #2b2b2b;
+}
+
+.schedule .event .session-title {
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+.schedule .event .speakers {
+  color: #6b7378;
+  font-size: 0.9rem;
+}
+
+.schedule .event .note {
+  color: #6b7378;
+  font-size: 0.9rem;
+}
+
+.schedule .event .sub {
+  margin: 0.4rem 0 0;
+  padding-left: 1.1rem;
+  color: #555;
+  font-size: 0.9rem;
+}
+
+.schedule .event .sub li {
+  margin: 0.15rem 0;
+}
+
+/* social / plenary moments get a faint accent rail */
+.schedule .slot.feature {
+  border-left: 2px solid $primary;
+  padding-left: 0.9rem;
+  margin-left: -0.9rem;
+}
+
+@media (max-width: 520px) {
+  .schedule .slot {
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
+  }
+}
+
 img {
   max-width: 100%;
   height: auto;

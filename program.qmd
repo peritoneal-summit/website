@@ -3,37 +3,44 @@ title: "Program"
 toc: true
 ---
 
-The detailed scientific program for the 2nd Peritoneal Summit will be released in **spring 2027**, approximately six months before the event.
-
-The 1st Summit (Pontresina 2025) followed a three-day format with keynote talks, themed sessions, workshops, and dedicated networking time — we are building on the same structure for 2027 with an expanded scope.
-
-## Provisional structure — September 2027
+An interdisciplinary meeting on the biology and medicine of the peritoneal cavity. Sessions are built around shared mechanisms rather than single diseases. The programme is designed to be welcoming for those travelling alone — informal trips, fireside chats and shared meals make it easy to connect.
 
 ::: {.callout-note}
-The information below is indicative and will be replaced by the full program once finalized.
+This is the provisional programme. Times, sessions and speakers may still change as confirmations come in.
 :::
 
-### Wednesday 8 September 2027
+## Day 1 — 8 September 2027
 
-Arrival and welcome reception. Evening campfire session for early-career scientists.
+::: {.schedule}
+<div class="slot"><div class="time">10:00–10:30</div><div class="event">Arrivals &amp; coffee</div></div>
+<div class="slot"><div class="time">10:30–12:30</div><div class="event"><span class="session-title">Founding Workshop — Peritoneal Summit Consortium / Society</span><br><span class="note">Funding models, governance, partnerships</span></div></div>
+<div class="slot feature"><div class="time">12:30–13:45</div><div class="event">Lunch <span class="note">(rolling arrivals)</span></div></div>
+<div class="slot"><div class="time">13:45–14:00</div><div class="event">Welcome</div></div>
+<div class="slot"><div class="time">14:00–16:00</div><div class="event"><span class="session-title">Session 1 · Immune Homeostasis &amp; Surveillance</span><br><span class="speakers">Allen, Randolph</span></div></div>
+<div class="slot"><div class="time">16:00–16:30</div><div class="event">Coffee</div></div>
+<div class="slot"><div class="time">16:30–18:30</div><div class="event"><span class="session-title">Session 2 · Thromboinflammation</span><br><span class="speakers">Kubes, Deniset</span></div></div>
+<div class="slot feature"><div class="time">19:00</div><div class="event">Standing dinner &amp; poster session</div></div>
+<div class="slot feature"><div class="time">20:30</div><div class="event">Fireside Chats <span class="note">(parallel)</span><ul class="sub"><li>"Is the mouse the right model?"</li><li>"What peritoneal implants do we need?"</li></ul></div></div>
+:::
 
-### Thursday 9 September 2027
+## Day 2 — 9 September 2027
 
-Full scientific day — keynote talks, themed sessions (peritoneal immunity, cancer, fibrosis, dialysis, endometriosis, bioengineering), poster session, networking dinner.
+::: {.schedule}
+<div class="slot"><div class="time">08:30–10:30</div><div class="event"><span class="session-title">Session 3 · Mesothelium, MMT &amp; Fibrosis</span><br><span class="speakers">Herrick, Zhou</span></div></div>
+<div class="slot"><div class="time">10:30–11:00</div><div class="event">Coffee</div></div>
+<div class="slot"><div class="time">11:00–12:30</div><div class="event"><span class="session-title">Session 4 · Peritoneal Niche &amp; Metabolism</span><br><span class="speakers">Naora, Weidinger</span></div></div>
+<div class="slot feature"><div class="time">12:30–15:30</div><div class="event"><span class="session-title">Long lunch + Hikes &amp; Trips</span><br><span class="note">Optional small-group discussions; hike, Thunersee boat, or cable-car options so everyone can join one</span><ul class="sub"><li>"Origin of cavity macrophages — does it matter?"</li><li>"Biobanking from humans — how can we maximize the benefit?"</li><li>"Theranostics — can we target the peritoneal space specifically?"</li><li>"Implant failure — is it due to scarring?"</li></ul></div></div>
+<div class="slot"><div class="time">15:30–16:00</div><div class="event">Coffee &amp; buffer <span class="note">(return from trips)</span></div></div>
+<div class="slot"><div class="time">16:00–18:00</div><div class="event"><span class="session-title">Session 5 · Pain</span><br><span class="speakers">Greaves + keynote TBD</span></div></div>
+<div class="slot feature"><div class="time">19:30</div><div class="event">Gala dinner <span class="note">(seated)</span></div></div>
+:::
 
-### Friday 10 September 2027
+## Day 3 — 10 September 2027
 
-Workshops, late-breaking talks, awards, and closing.
-
-## Themes
-
-The program is structured around the major scientific fronts in peritoneal research:
-
-- **Peritoneal immunity and tissue repair**
-- **Peritoneal cancer and metastasis**
-- **Endometriosis**
-- **Peritoneal dialysis and fibrosis**
-- **Imaging, single-cell, and spatial methods**
-- **Biomaterials and surgical innovation**
-
-<!-- TODO: replace with full block schedule once confirmed -->
+::: {.schedule}
+<div class="slot"><div class="time">08:30–10:30</div><div class="event"><span class="session-title">Session 6 · Particles, Biomaterials &amp; Foreign-Body Response</span><br><span class="speakers">Herrmann, Carmichael</span></div></div>
+<div class="slot"><div class="time">10:30–11:00</div><div class="event">Coffee</div></div>
+<div class="slot"><div class="time">11:00–13:00</div><div class="event"><span class="session-title">Session 7 · Peritoneal Dialysis — EuroPD Session</span><br><span class="speakers">EuroPD nominees</span></div></div>
+<div class="slot"><div class="time">13:00–13:30</div><div class="event"><span class="session-title">Awards &amp; Outlook</span><br><span class="note">Consortium report-back, poster/abstract prizes, concluding remarks</span></div></div>
+<div class="slot feature"><div class="time">13:30</div><div class="event">Grab-and-go lunch → departures</div></div>
+:::
