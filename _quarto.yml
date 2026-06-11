@@ -4,12 +4,17 @@ project:
   # CNAME pins the live custom domain (peritoneal-summit.ch) across deploys.
   resources:
     - CNAME
+    - robots.txt
+    - llms.txt
 
 website:
   title: "Peritoneal Summit 2027"
   description: "The leading international meeting on peritoneal research and technology"
   site-url: https://peritoneal-summit.ch
   favicon: assets/favicon.png
+  image: assets/logo.png
+  open-graph: true
+  twitter-card: true
   navbar:
     background: light
     pinned: true
@@ -41,6 +46,8 @@ format:
     theme:
       - flatly
       - theme-summit.scss
+    include-in-header:
+      - head-extras.html
     toc: false
     code-link: true
     grid:
