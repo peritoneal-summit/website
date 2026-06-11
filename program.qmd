@@ -18,7 +18,7 @@ This is the provisional programme. Times, sessions and speakers may still change
 <div class="slot"><div class="time">13:45–14:00</div><div class="event">Welcome</div></div>
 <div class="slot"><div class="time">14:00–16:00</div><div class="event"><span class="session-title">Session 1 · Immune Homeostasis &amp; Surveillance</span><br><span class="speakers">Allen, Randolph</span></div></div>
 <div class="slot"><div class="time">16:00–16:30</div><div class="event">Coffee</div></div>
-<div class="slot"><div class="time">16:30–18:30</div><div class="event"><span class="session-title">Session 2 · Thromboinflammation</span><br><span class="speakers">Kubes, Deniset</span></div></div>
+<div class="slot"><div class="time">16:30–18:30</div><div class="event"><span class="session-title">Session 2 · Thromboinflammation</span><br><span class="speakers">Kubes, Deniset, Carmichael</span></div></div>
 <div class="slot feature"><div class="time">19:00</div><div class="event">Standing dinner &amp; poster session</div></div>
 <div class="slot feature"><div class="time">20:30</div><div class="event">Fireside Chats <span class="note">(parallel)</span><ul class="sub"><li>"Is the mouse the right model?"</li><li>"What peritoneal implants do we need?"</li></ul></div></div>
 :::
@@ -38,7 +38,7 @@ This is the provisional programme. Times, sessions and speakers may still change
 ## Day 3 — 10 September 2027
 
 ::: {.schedule}
-<div class="slot"><div class="time">08:30–10:30</div><div class="event"><span class="session-title">Session 6 · Particles, Biomaterials &amp; Foreign-Body Response</span><br><span class="speakers">Herrmann, Carmichael</span></div></div>
+<div class="slot"><div class="time">08:30–10:30</div><div class="event"><span class="session-title">Session 6 · Particles, Biomaterials &amp; Foreign-Body Response</span><br><span class="speakers">Herrmann + keynote TBD</span></div></div>
 <div class="slot"><div class="time">10:30–11:00</div><div class="event">Coffee</div></div>
 <div class="slot"><div class="time">11:00–13:00</div><div class="event"><span class="session-title">Session 7 · Peritoneal Dialysis — EuroPD Session</span><br><span class="speakers">EuroPD nominees</span></div></div>
 <div class="slot"><div class="time">13:00–13:30</div><div class="event"><span class="session-title">Awards &amp; Outlook</span><br><span class="note">Consortium report-back, poster/abstract prizes, concluding remarks</span></div></div>

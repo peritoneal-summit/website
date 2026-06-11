@@ -3,7 +3,19 @@ title: "Registration"
 toc: false
 ---
 
-Registration will open **September 2026**, approximately one year before the Summit. This page will then list the registration link (handled externally via [Ticketino](https://www.ticketino.com/)), the full package descriptions, and the General Terms and Conditions.
+Registration will open **September 2026**, approximately one year before the Summit. This page will then list the registration link, the full package descriptions, and the General Terms and Conditions.
+
+The 2nd Peritoneal Summit is kept deliberately intimate — **around 90 participants** — to encourage genuine exchange across disciplines.
+
+## Key dates
+
+| Date | Milestone |
+|---|---|
+| **September 2026** | Registration opens |
+| **15 June 2027** | Abstract submission deadline · early-bird registration closes |
+| **Early July 2027** | Abstract decisions communicated |
+| **Mid-August 2027** | Accommodation booking deadline — limited rooms at the venue, book early |
+| **Until the conference** | Regular registration remains open, subject to capacity |
 
 ## Provisional packages
 
@@ -11,31 +23,30 @@ Registration will open **September 2026**, approximately one year before the Sum
 
 ::: {.price-card}
 ### Student Conference Package
-<p class="price-tbd">Pricing — coming soon</p>
+<div class="tiers">
+<div class="tier"><span class="tier-label">Early bird</span><span class="tier-price">Coming soon</span></div>
+<div class="tier"><span class="tier-label">Regular</span><span class="tier-price">Coming soon</span></div>
+</div>
 Three days · reduced rate for undergraduate and graduate students
 - Three-day conference pass
 - Meals according to program
-- All networking events except networking dinner
+- Gala dinner included
+- All networking events
 - Free access to all workshops
 :::
 
 ::: {.price-card}
 ### Basic Conference Package
-<p class="price-tbd">Pricing — coming soon</p>
+<div class="tiers">
+<div class="tier"><span class="tier-label">Early bird</span><span class="tier-price">Coming soon</span></div>
+<div class="tier"><span class="tier-label">Regular</span><span class="tier-price">Coming soon</span></div>
+</div>
 Three days · standard rate
 - Three-day conference pass
 - Meals according to program
-- All networking events except networking dinner
+- Gala dinner included
+- All networking events
 - Free access to all workshops
-:::
-
-::: {.price-card}
-### Networking Dinner
-<p class="price-tbd">Pricing — coming soon</p>
-Thursday evening · highly recommended
-- Three-course dinner
-- Beverages included
-- Premier networking opportunity
 :::
 
 ::: {.price-card}
