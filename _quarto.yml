@@ -10,10 +10,13 @@ website:
   title: "Peritoneal Summit 2027"
   description: "The leading international meeting on peritoneal research and technology"
   site-url: https://peritoneal-summit.com
-  favicon: ""
+  favicon: assets/favicon.png
   navbar:
     background: light
     pinned: true
+    logo: assets/logo.png
+    logo-alt: "Peritoneal Summit 2027"
+    title: false
     left:
       - href: index.qmd
         text: Home

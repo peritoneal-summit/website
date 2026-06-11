@@ -8,7 +8,7 @@ toc: false
 ::: {.people-grid}
 
 ::: {.person-card}
-<!-- ![](assets/speakers/erin-greaves.jpg){.person-photo} -->
+![](assets/speakers/erin-greaves.jpg){.person-photo}
 ### Erin Greaves
 <p class="role">Co-organizer</p>
 <p class="affiliation">Warwick Medical School · Endometriosis</p>
@@ -22,14 +22,14 @@ toc: false
 :::
 
 ::: {.person-card}
-<!-- ![](assets/speakers/inge-herrmann.jpg){.person-photo} -->
+![](assets/speakers/inge-herrmann.jpg){.person-photo}
 ### Inge K. Herrmann
 <p class="role">Co-organizer</p>
 <p class="affiliation">ETH Zürich / Empa · Particles–Biology Interactions</p>
 :::
 
 ::: {.person-card}
-<!-- ![](assets/speakers/joel-zindel.jpg){.person-photo} -->
+![](assets/speakers/joel-zindel.jpg){.person-photo}
 ### Joel Zindel
 <p class="role">Co-organizer</p>
 <p class="affiliation">ETH Zürich · Institute of Molecular Health Sciences</p>
@@ -51,45 +51,52 @@ The full keynote line-up for 2027 is being assembled. The following speakers hav
 :::
 
 ::: {.person-card}
-<!-- ![](assets/speakers/samuel-carmichael.jpg){.person-photo} -->
+![](assets/speakers/samuel-carmichael.jpg){.person-photo}
 ### Samuel Carmichael II
 <p class="role">Confirmed speaker</p>
 <p class="affiliation">Wake Forest School of Medicine</p>
 :::
 
 ::: {.person-card}
-<!-- ![](assets/speakers/justin-deniset.jpg){.person-photo} -->
+![](assets/speakers/justin-deniset.jpg){.person-photo}
 ### Justin Deniset
 <p class="role">Confirmed speaker</p>
 <p class="affiliation">University of Calgary</p>
 :::
 
 ::: {.person-card}
-<!-- ![](assets/speakers/paul-kubes.jpg){.person-photo} -->
+![](assets/speakers/paul-kubes.jpg){.person-photo}
 ### Paul Kubes
 <p class="role">Confirmed speaker</p>
 <p class="affiliation">University of Calgary · Snyder Institute for Chronic Diseases</p>
 :::
 
 ::: {.person-card}
-<!-- ![](assets/speakers/honami-naora.jpg){.person-photo} -->
+![](assets/speakers/honami-naora.jpg){.person-photo}
 ### Honami Naora
 <p class="role">Confirmed speaker</p>
 <p class="affiliation">MD Anderson Cancer Center · Department of Molecular Oncology</p>
 :::
 
 ::: {.person-card}
-<!-- ![](assets/speakers/gwendalyn-randolph.jpg){.person-photo} -->
+![](assets/speakers/gwendalyn-randolph.jpg){.person-photo}
 ### Gwendalyn J. Randolph
 <p class="role">Confirmed speaker</p>
 <p class="affiliation">Washington University in St. Louis</p>
 :::
 
 ::: {.person-card}
-<!-- ![](assets/speakers/carl-weidinger.jpg){.person-photo} -->
+![](assets/speakers/carl-weidinger.jpg){.person-photo}
 ### Carl Weidinger
 <p class="role">Confirmed speaker</p>
 <p class="affiliation">Charité — Universitätsmedizin Berlin</p>
+:::
+
+::: {.person-card}
+![](assets/speakers/bin-zhou.jpg){.person-photo}
+### Bin Zhou
+<p class="role">Confirmed speaker</p>
+<p class="affiliation">Chinese Academy of Sciences · Institute of Biochemistry and Cell Biology, Shanghai</p>
 :::
 
 :::

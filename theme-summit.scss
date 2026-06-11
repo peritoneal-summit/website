@@ -31,6 +31,13 @@ body {
   letter-spacing: -0.01em;
 }
 
+// Navbar logo — height set so the flatter (~1.96:1) logo keeps the
+// same ~218px display width as the previous mark; this also shortens the navbar.
+.navbar-brand .navbar-logo {
+  max-height: 111px;
+  object-fit: contain;
+}
+
 .summit-hero {
   padding: 5rem 0 3rem;
   text-align: left;
