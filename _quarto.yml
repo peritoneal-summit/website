@@ -1,15 +1,14 @@
 project:
   type: website
   output-dir: _site
-  # CNAME deferred until DNS is moved away from Durable.
-  # Uncomment when ready to enforce peritoneal-summit.com as the live domain.
-  # resources:
-  #   - CNAME
+  # CNAME pins the live custom domain (peritoneal-summit.ch) across deploys.
+  resources:
+    - CNAME
 
 website:
   title: "Peritoneal Summit 2027"
   description: "The leading international meeting on peritoneal research and technology"
-  site-url: https://peritoneal-summit.com
+  site-url: https://peritoneal-summit.ch
   favicon: assets/favicon.png
   navbar:
     background: light
