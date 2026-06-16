@@ -86,6 +86,13 @@ The full keynote line-up for 2027 is being assembled. The following speakers hav
 :::
 
 ::: {.person-card}
+![](assets/speakers/mark-tibbitt.jpg){.person-photo}
+### Mark Tibbitt
+<p class="role">Confirmed speaker</p>
+<p class="affiliation">ETH Zürich · Department of Mechanical and Process Engineering</p>
+:::
+
+::: {.person-card}
 ![](assets/speakers/carl-weidinger.jpg){.person-photo}
 ### Carl Weidinger
 <p class="role">Confirmed speaker</p>
