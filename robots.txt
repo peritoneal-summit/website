@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://peritoneal-summit.ch/sitemap.xml
+Sitemap: https://peritoneal-summit.com/sitemap.xml

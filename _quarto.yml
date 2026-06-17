@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: _site
-  # CNAME pins the live custom domain (peritoneal-summit.ch) across deploys.
+  # CNAME pins the live custom domain (peritoneal-summit.com) across deploys.
   resources:
     - CNAME
     - robots.txt
@@ -10,7 +10,7 @@ project:
 website:
   title: "Peritoneal Summit 2027"
   description: "The leading international meeting on peritoneal research and technology"
-  site-url: https://peritoneal-summit.ch
+  site-url: https://peritoneal-summit.com
   favicon: assets/favicon.png
   image: assets/logo.png
   open-graph: true

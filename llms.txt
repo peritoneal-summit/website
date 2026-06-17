@@ -9,16 +9,16 @@
 - Registration opens: September 2026
 - Abstract submission deadline: 15 June 2027
 - Organizers: Joel Zindel (ETH Zürich), Inge K. Herrmann (ETH Zürich / Empa), Erin Greaves (University of Warwick), Sarah Herrick (University of Manchester)
-- Website: https://peritoneal-summit.ch
+- Website: https://peritoneal-summit.com
 
 ## Pages
-- [Home](https://peritoneal-summit.ch/index.html): Save-the-date overview of the Summit
-- [Program](https://peritoneal-summit.ch/program.html): Provisional 3-day scientific program and session themes
-- [Speakers](https://peritoneal-summit.ch/speakers.html): Organizing committee and confirmed speakers
-- [Abstracts](https://peritoneal-summit.ch/abstracts.html): Abstract submission information (deadline 15 June 2027)
-- [Registration](https://peritoneal-summit.ch/registration.html): Packages, key dates, and registration details
-- [Venue](https://peritoneal-summit.ch/venue.html): Spiez venue and travel information
-- [Contact](https://peritoneal-summit.ch/contact.html): Organizer contact
+- [Home](https://peritoneal-summit.com/index.html): Save-the-date overview of the Summit
+- [Program](https://peritoneal-summit.com/program.html): Provisional 3-day scientific program and session themes
+- [Speakers](https://peritoneal-summit.com/speakers.html): Organizing committee and confirmed speakers
+- [Abstracts](https://peritoneal-summit.com/abstracts.html): Abstract submission information (deadline 15 June 2027)
+- [Registration](https://peritoneal-summit.com/registration.html): Packages, key dates, and registration details
+- [Venue](https://peritoneal-summit.com/venue.html): Spiez venue and travel information
+- [Contact](https://peritoneal-summit.com/contact.html): Organizer contact
 
 ## Background
 - The 1st Peritoneal Summit was held in Pontresina, Switzerland, 15–17 January 2025.
