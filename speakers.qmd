@@ -79,6 +79,13 @@ The full keynote line-up for 2027 is being assembled. The following speakers hav
 :::
 
 ::: {.person-card}
+![](assets/speakers/esther-pogatzki-zahn.jpg){.person-photo}
+### Esther Pogatzki-Zahn
+<p class="role">Confirmed speaker</p>
+<p class="affiliation">University Hospital Münster · Anesthesiology, Intensive Care and Pain Medicine</p>
+:::
+
+::: {.person-card}
 ![](assets/speakers/gwendalyn-randolph.jpg){.person-photo}
 ### Gwendalyn J. Randolph
 <p class="role">Confirmed speaker</p>
@@ -97,6 +104,13 @@ The full keynote line-up for 2027 is being assembled. The following speakers hav
 ### Carl Weidinger
 <p class="role">Confirmed speaker</p>
 <p class="affiliation">Charité — Universitätsmedizin Berlin</p>
+:::
+
+::: {.person-card}
+![](assets/speakers/bettina-wilm.jpg){.person-photo}
+### Bettina Wilm
+<p class="role">Confirmed speaker</p>
+<p class="affiliation">University of Liverpool · Institute of Life Course and Medical Sciences</p>
 :::
 
 ::: {.person-card}

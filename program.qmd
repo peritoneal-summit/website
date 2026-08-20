@@ -31,7 +31,7 @@ This is the provisional programme. Times, sessions and speakers may still change
 <div class="slot"><div class="time">11:00–12:30</div><div class="event"><span class="session-title">Session 4 · Peritoneal Niche &amp; Metabolism</span><br><span class="speakers">Naora, Weidinger</span></div></div>
 <div class="slot feature"><div class="time">12:30–15:30</div><div class="event"><span class="session-title">Long lunch + Hikes &amp; Trips</span><br><span class="note">Optional small-group discussions; hike, Thunersee boat, or cable-car options so everyone can join one</span><ul class="sub"><li>"Origin of cavity macrophages — does it matter?"</li><li>"Biobanking from humans — how can we maximize the benefit?"</li><li>"Theranostics — can we target the peritoneal space specifically?"</li><li>"Implant failure — is it due to scarring?"</li></ul></div></div>
 <div class="slot"><div class="time">15:30–16:00</div><div class="event">Coffee &amp; buffer <span class="note">(return from trips)</span></div></div>
-<div class="slot"><div class="time">16:00–18:00</div><div class="event"><span class="session-title">Session 5 · Pain</span><br><span class="speakers">Greaves + keynote TBD</span></div></div>
+<div class="slot"><div class="time">16:00–18:00</div><div class="event"><span class="session-title">Session 5 · Pain</span><br><span class="speakers">Greaves, Pogatzki-Zahn</span></div></div>
 <div class="slot feature"><div class="time">19:30</div><div class="event">Gala dinner <span class="note">(seated)</span></div></div>
 :::
 
