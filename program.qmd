@@ -16,7 +16,7 @@ This is the provisional programme. Times, sessions and speakers may still change
 <div class="slot"><div class="time">10:30–12:30</div><div class="event"><span class="session-title">Founding Workshop — Peritoneal Summit Consortium / Society</span><br><span class="note">Funding models, governance, partnerships</span></div></div>
 <div class="slot feature"><div class="time">12:30–13:45</div><div class="event">Lunch <span class="note">(rolling arrivals)</span></div></div>
 <div class="slot"><div class="time">13:45–14:00</div><div class="event">Welcome</div></div>
-<div class="slot"><div class="time">14:00–16:00</div><div class="event"><span class="session-title">Session 1 · Immune Homeostasis &amp; Surveillance</span><br><span class="speakers">Allen, Randolph</span></div></div>
+<div class="slot"><div class="time">14:00–16:00</div><div class="event"><span class="session-title">Session 1 · Immune Homeostasis &amp; Surveillance</span><br><span class="speakers">Allen, Randolph, Zindel</span></div></div>
 <div class="slot"><div class="time">16:00–16:30</div><div class="event">Coffee</div></div>
 <div class="slot"><div class="time">16:30–18:30</div><div class="event"><span class="session-title">Session 2 · Thromboinflammation</span><br><span class="speakers">Kubes, Deniset, Carmichael</span></div></div>
 <div class="slot feature"><div class="time">19:00</div><div class="event">Standing dinner &amp; poster session</div></div>
