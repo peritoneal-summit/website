@@ -40,7 +40,7 @@ This is the provisional programme. Times, sessions and speakers may still change
 ::: {.schedule}
 <div class="slot"><div class="time">08:30–10:30</div><div class="event"><span class="session-title">Session 6 · Particles, Biomaterials &amp; Foreign-Body Response</span><br><span class="speakers">Herrmann, Tibbitt</span></div></div>
 <div class="slot"><div class="time">10:30–11:00</div><div class="event">Coffee</div></div>
-<div class="slot"><div class="time">11:00–13:00</div><div class="event"><span class="session-title">Session 7 · Peritoneal Dialysis — EuroPD Session</span><br><span class="speakers">Davies, Raby, EuroPD nominee</span></div></div>
+<div class="slot"><div class="time">11:00–13:00</div><div class="event"><span class="session-title">Session 7 · Peritoneal Dialysis — EuroPD Session</span><br><span class="speakers">Davies, EuroPD nominees</span></div></div>
 <div class="slot"><div class="time">13:00–13:30</div><div class="event"><span class="session-title">Awards &amp; Outlook</span><br><span class="note">Consortium report-back, poster/abstract prizes, concluding remarks</span></div></div>
 <div class="slot feature"><div class="time">13:30</div><div class="event">Grab-and-go lunch → departures</div></div>
 :::
