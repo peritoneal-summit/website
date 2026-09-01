@@ -11,6 +11,7 @@ The full keynote line-up for 2027 is being assembled. The following speakers hav
 
 ::: {.person-card}
 ![](assets/speakers/judith-allen.jpg){.person-photo}
+
 ### Judith Allen
 <p class="role">Confirmed speaker</p>
 <p class="affiliation">University of Manchester</p>
@@ -18,13 +19,23 @@ The full keynote line-up for 2027 is being assembled. The following speakers hav
 
 ::: {.person-card}
 ![](assets/speakers/samuel-carmichael.jpg){.person-photo}
+
 ### Samuel Carmichael II
 <p class="role">Confirmed speaker</p>
 <p class="affiliation">Wake Forest School of Medicine</p>
 :::
 
 ::: {.person-card}
+![](assets/speakers/luke-davies.jpg){.person-photo}
+
+### Luke Davies
+<p class="role">Confirmed speaker</p>
+<p class="affiliation">Swansea University Medical School · Immunometabolism</p>
+:::
+
+::: {.person-card}
 ![](assets/speakers/justin-deniset.jpg){.person-photo}
+
 ### Justin Deniset
 <p class="role">Confirmed speaker</p>
 <p class="affiliation">University of Calgary</p>
@@ -32,6 +43,7 @@ The full keynote line-up for 2027 is being assembled. The following speakers hav
 
 ::: {.person-card}
 ![](assets/speakers/paul-kubes.jpg){.person-photo}
+
 ### Paul Kubes
 <p class="role">Confirmed speaker</p>
 <p class="affiliation">University of Calgary · Snyder Institute for Chronic Diseases</p>
@@ -39,6 +51,7 @@ The full keynote line-up for 2027 is being assembled. The following speakers hav
 
 ::: {.person-card}
 ![](assets/speakers/honami-naora.jpg){.person-photo}
+
 ### Honami Naora
 <p class="role">Confirmed speaker</p>
 <p class="affiliation">MD Anderson Cancer Center · Department of Molecular Oncology</p>
@@ -46,13 +59,22 @@ The full keynote line-up for 2027 is being assembled. The following speakers hav
 
 ::: {.person-card}
 ![](assets/speakers/esther-pogatzki-zahn.jpg){.person-photo}
+
 ### Esther Pogatzki-Zahn
 <p class="role">Confirmed speaker</p>
 <p class="affiliation">University Hospital Münster · Anesthesiology, Intensive Care and Pain Medicine</p>
 :::
 
 ::: {.person-card}
+<div class="person-photo photo-pending" role="img" aria-label="Photo to follow">AR</div>
+### Anne Catherine Raby
+<p class="role">Confirmed speaker</p>
+<p class="affiliation">Cardiff University</p>
+:::
+
+::: {.person-card}
 ![](assets/speakers/gwendalyn-randolph.jpg){.person-photo}
+
 ### Gwendalyn J. Randolph
 <p class="role">Confirmed speaker</p>
 <p class="affiliation">Washington University in St. Louis</p>
@@ -60,6 +82,7 @@ The full keynote line-up for 2027 is being assembled. The following speakers hav
 
 ::: {.person-card}
 ![](assets/speakers/mark-tibbitt.jpg){.person-photo}
+
 ### Mark Tibbitt
 <p class="role">Confirmed speaker</p>
 <p class="affiliation">ETH Zürich · Department of Mechanical and Process Engineering</p>
@@ -67,6 +90,7 @@ The full keynote line-up for 2027 is being assembled. The following speakers hav
 
 ::: {.person-card}
 ![](assets/speakers/carl-weidinger.jpg){.person-photo}
+
 ### Carl Weidinger
 <p class="role">Confirmed speaker</p>
 <p class="affiliation">Charité — Universitätsmedizin Berlin</p>
@@ -74,6 +98,7 @@ The full keynote line-up for 2027 is being assembled. The following speakers hav
 
 ::: {.person-card}
 ![](assets/speakers/bettina-wilm.jpg){.person-photo}
+
 ### Bettina Wilm
 <p class="role">Confirmed speaker</p>
 <p class="affiliation">University of Liverpool · Institute of Life Course and Medical Sciences</p>
@@ -81,6 +106,7 @@ The full keynote line-up for 2027 is being assembled. The following speakers hav
 
 ::: {.person-card}
 ![](assets/speakers/bin-zhou.jpg){.person-photo}
+
 ### Bin Zhou
 <p class="role">Confirmed speaker</p>
 <p class="affiliation">Chinese Academy of Sciences · Institute of Biochemistry and Cell Biology, Shanghai</p>
@@ -96,6 +122,7 @@ More speakers will be added as confirmations come in.
 
 ::: {.person-card}
 ![](assets/speakers/erin-greaves.jpg){.person-photo}
+
 ### Erin Greaves
 <p class="role">Co-organizer</p>
 <p class="affiliation">Warwick Medical School · Endometriosis</p>
@@ -103,6 +130,7 @@ More speakers will be added as confirmations come in.
 
 ::: {.person-card}
 ![](assets/speakers/sarah-herrick.jpg){.person-photo}
+
 ### Sarah Herrick
 <p class="role">Co-organizer</p>
 <p class="affiliation">University of Manchester · MMT & Peritoneal Dialysis</p>
@@ -110,6 +138,7 @@ More speakers will be added as confirmations come in.
 
 ::: {.person-card}
 ![](assets/speakers/inge-herrmann.jpg){.person-photo}
+
 ### Inge K. Herrmann
 <p class="role">Co-organizer</p>
 <p class="affiliation">ETH Zürich / Empa · Particles–Biology Interactions</p>
@@ -117,6 +146,7 @@ More speakers will be added as confirmations come in.
 
 ::: {.person-card}
 ![](assets/speakers/joel-zindel.jpg){.person-photo}
+
 ### Joel Zindel
 <p class="role">Co-organizer</p>
 <p class="affiliation">ETH Zürich · Institute of Molecular Health Sciences</p>

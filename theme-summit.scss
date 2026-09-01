@@ -130,6 +130,12 @@ body {
   margin: 0;
 }
 
+/* The photo is wrapped in a <p> by pandoc; drop its margin so the
+   image cards line up with the .photo-pending placeholder cards. */
+.person-card > p:first-child {
+  margin: 0;
+}
+
 .person-card .person-photo {
   width: calc(100% + 2.5rem);
   margin: -1.25rem -1.25rem 1rem;
@@ -138,6 +144,19 @@ body {
   object-position: center 25%;
   display: block;
   border-radius: 6px 6px 0 0;
+}
+
+/* Placeholder tile for speakers whose photo has not arrived yet */
+.person-card .person-photo.photo-pending {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #eceff1;
+  color: #9aa4a9;
+  font-size: 1.75rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  user-select: none;
 }
 
 /* Pricing cards */

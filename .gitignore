@@ -26,3 +26,7 @@ __pycache__/
 # Credentials safety net
 .env
 .env.local
+
+# Correspondence — private, never publish to the public repo
+inbox/
+outbox/
