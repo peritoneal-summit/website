@@ -18,6 +18,14 @@ The full keynote line-up for 2027 is being assembled. The following speakers hav
 :::
 
 ::: {.person-card}
+![](assets/speakers/eric-appel.jpg){.person-photo}
+
+### Eric A. Appel
+<p class="role">Confirmed speaker</p>
+<p class="affiliation">Stanford University · Materials Science &amp; Engineering</p>
+:::
+
+::: {.person-card}
 ![](assets/speakers/samuel-carmichael.jpg){.person-photo}
 
 ### Samuel Carmichael II
@@ -39,6 +47,30 @@ The full keynote line-up for 2027 is being assembled. The following speakers hav
 ### Justin Deniset
 <p class="role">Confirmed speaker</p>
 <p class="affiliation">University of Calgary</p>
+:::
+
+::: {.person-card}
+![](assets/speakers/lucy-jackson-jones.jpg){.person-photo}
+
+### Lucy Jackson-Jones
+<p class="role">Confirmed speaker</p>
+<p class="affiliation">Lancaster University · Biomedical and Life Sciences</p>
+:::
+
+::: {.person-card}
+![](assets/speakers/steve-jenkins.jpg){.person-photo}
+
+### Steve Jenkins
+<p class="role">Confirmed speaker</p>
+<p class="affiliation">University of Edinburgh · Centre for Inflammation Research</p>
+:::
+
+::: {.person-card}
+![](assets/speakers/klaus-kratochwill.jpg){.person-photo}
+
+### Klaus Kratochwill
+<p class="role">Confirmed speaker</p>
+<p class="affiliation">Medical University of Vienna · Molecular Stress Research in Peritoneal Dialysis</p>
 :::
 
 ::: {.person-card}
