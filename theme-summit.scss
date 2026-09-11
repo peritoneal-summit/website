@@ -212,9 +212,9 @@ body {
 }
 
 .price-card .tiers .tier .tier-price {
-  color: #999;
-  font-style: italic;
-  font-size: 0.9rem;
+  color: $primary;
+  font-weight: 600;
+  font-size: 0.95rem;
 }
 
 .price-card ul {

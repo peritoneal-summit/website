@@ -3,7 +3,7 @@ title: "Registration"
 toc: false
 ---
 
-Registration will open **January 2027**, about eight months before the Summit. This page will then list the registration link, the full package descriptions, and the General Terms and Conditions.
+Registration will open **January 2027**, about eight months before the Summit. This page will then list the registration link and the General Terms and Conditions. Package prices below are final.
 
 The 2nd Peritoneal Summit is kept deliberately intimate — **around 90 participants** — to encourage genuine exchange across disciplines.
 
@@ -24,8 +24,8 @@ The 2nd Peritoneal Summit is kept deliberately intimate — **around 90 particip
 ::: {.price-card}
 ### Student Conference Package
 <div class="tiers">
-<div class="tier"><span class="tier-label">Early bird</span><span class="tier-price">Coming soon</span></div>
-<div class="tier"><span class="tier-label">Regular</span><span class="tier-price">Coming soon</span></div>
+<div class="tier"><span class="tier-label">Early bird</span><span class="tier-price">CHF 350</span></div>
+<div class="tier"><span class="tier-label">Regular</span><span class="tier-price">CHF 420</span></div>
 </div>
 Three days · reduced rate for undergraduate and graduate students
 - Three-day conference pass
@@ -38,8 +38,8 @@ Three days · reduced rate for undergraduate and graduate students
 ::: {.price-card}
 ### Basic Conference Package
 <div class="tiers">
-<div class="tier"><span class="tier-label">Early bird</span><span class="tier-price">Coming soon</span></div>
-<div class="tier"><span class="tier-label">Regular</span><span class="tier-price">Coming soon</span></div>
+<div class="tier"><span class="tier-label">Early bird</span><span class="tier-price">CHF 550</span></div>
+<div class="tier"><span class="tier-label">Regular</span><span class="tier-price">CHF 650</span></div>
 </div>
 Three days · standard rate
 - Three-day conference pass
@@ -51,14 +51,17 @@ Three days · standard rate
 
 ::: {.price-card}
 ### Accommodation
-<p class="price-tbd">Pricing — coming soon</p>
+<p class="price-tbd">Booked directly with the hotel</p>
 Per night · at the conference venue
-- Breakfast included
+- Conference rate, breakfast included
+- Rate code sent with your registration confirmation
 - Walking distance from sessions
 - Limited availability — book early once registration opens
 :::
 
 :::
+
+All prices in CHF, including VAT. The early-bird rate applies until **15 June 2027**; the regular rate applies from 16 June 2027 until the Summit, subject to capacity. Accommodation is not included in the conference packages and is booked directly with Hotel Seaside — the conference rate code comes with your registration confirmation.
 
 ## Stay informed
 
