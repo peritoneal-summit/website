@@ -9,7 +9,7 @@ toc: false
 Save the date
 :::
 
-# 2nd Peritoneal Summit
+# Peritoneal Summit
 
 ::: {.summit-date}
 8 – 10 September 2027
@@ -32,7 +32,7 @@ The leading international meeting on peritoneal research and technology, connect
 
 The Peritoneal Summit brings together surgeons, immunologists, oncologists, nephrologists, bioengineers, and basic scientists with a shared interest in the peritoneum — a tissue that bridges immunity, repair, fibrosis, and disease.
 
-The inaugural Summit took place in January 2025 in Pontresina, Switzerland ([read about the 2025 edition](past/2025.qmd)). The 2nd Summit returns in September 2027, this time in scenic Spiez on Lake Thun, with an expanded program of keynote talks, workshops, and campfire sessions for early-career researchers.
+The inaugural Summit took place in January 2025 in Pontresina, Switzerland ([read about the 2025 edition](past/2025.qmd)). The Summit returns in September 2027, this time in scenic Spiez on Lake Thun, with an expanded program of keynote talks, workshops, and campfire sessions for early-career researchers.
 
 ## What to expect
 

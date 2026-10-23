@@ -1,6 +1,6 @@
 # Peritoneal Summit — peritoneal-summit.com
 
-Source code for the 2nd Peritoneal Summit website (Spiez, 8–10 September 2027).
+Source code for the Peritoneal Summit website (Spiez, 8–10 September 2027).
 Built with [Quarto](https://quarto.org), deployed to <https://peritoneal-summit.com>.
 
 The site is currently in **Save the Date** mode. Registration opens January 2027.
