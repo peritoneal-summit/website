@@ -98,6 +98,14 @@ The full keynote line-up for 2027 is being assembled. The following speakers hav
 :::
 
 ::: {.person-card}
+![](assets/speakers/anne-catherine-raby.jpg){.person-photo}
+
+### Anne-Catherine Raby
+<p class="role">Confirmed speaker</p>
+<p class="affiliation">Cardiff University</p>
+:::
+
+::: {.person-card}
 ![](assets/speakers/gwendalyn-randolph.jpg){.person-photo}
 
 ### Gwendalyn J. Randolph

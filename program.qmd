@@ -16,7 +16,7 @@ This is the provisional programme. Times, sessions and speakers may still change
 <div class="slot"><div class="time">10:30–12:30</div><div class="event"><span class="session-title">Founding Workshop — Peritoneal Summit Consortium / Society</span><br><span class="note">Funding models, governance, partnerships</span></div></div>
 <div class="slot feature"><div class="time">12:30–13:45</div><div class="event">Lunch <span class="note">(rolling arrivals)</span></div></div>
 <div class="slot"><div class="time">13:45–14:00</div><div class="event">Welcome</div></div>
-<div class="slot"><div class="time">14:00–16:00</div><div class="event"><span class="session-title">Session 1 · Immune Homeostasis &amp; Surveillance</span><br><span class="speakers">Allen, Randolph, Zindel</span></div></div>
+<div class="slot"><div class="time">14:00–16:00</div><div class="event"><span class="session-title">Session 1 · Immune Homeostasis &amp; Surveillance</span><br><span class="speakers">Allen, Jackson-Jones, Randolph, Zindel</span></div></div>
 <div class="slot"><div class="time">16:00–16:30</div><div class="event">Coffee</div></div>
 <div class="slot"><div class="time">16:30–18:30</div><div class="event"><span class="session-title">Session 2 · Thromboinflammation</span><br><span class="speakers">Kubes, Deniset, Carmichael</span></div></div>
 <div class="slot feature"><div class="time">19:00</div><div class="event">Standing dinner &amp; poster session</div></div>
@@ -28,7 +28,7 @@ This is the provisional programme. Times, sessions and speakers may still change
 ::: {.schedule}
 <div class="slot"><div class="time">08:30–10:30</div><div class="event"><span class="session-title">Session 3 · Mesothelium, MMT &amp; Fibrosis</span><br><span class="speakers">Herrick, Wilm, Zhou</span></div></div>
 <div class="slot"><div class="time">10:30–11:00</div><div class="event">Coffee</div></div>
-<div class="slot"><div class="time">11:00–12:30</div><div class="event"><span class="session-title">Session 4 · Peritoneal Niche &amp; Metabolism</span><br><span class="speakers">Naora, Weidinger</span></div></div>
+<div class="slot"><div class="time">11:00–12:30</div><div class="event"><span class="session-title">Session 4 · Peritoneal Niche &amp; Metabolism</span><br><span class="speakers">Jenkins, Naora, Weidinger</span></div></div>
 <div class="slot feature"><div class="time">12:30–15:30</div><div class="event"><span class="session-title">Long lunch + Hikes &amp; Trips</span><br><span class="note">Optional small-group discussions; hike, Thunersee boat, or cable-car options so everyone can join one</span><ul class="sub"><li>"Origin of cavity macrophages — does it matter?"</li><li>"Biobanking from humans — how can we maximize the benefit?"</li><li>"Theranostics — can we target the peritoneal space specifically?"</li><li>"Implant failure — is it due to scarring?"</li></ul></div></div>
 <div class="slot"><div class="time">15:30–16:00</div><div class="event">Coffee &amp; buffer <span class="note">(return from trips)</span></div></div>
 <div class="slot"><div class="time">16:00–18:00</div><div class="event"><span class="session-title">Session 5 · Pain</span><br><span class="speakers">Greaves, Pogatzki-Zahn</span></div></div>
@@ -38,9 +38,9 @@ This is the provisional programme. Times, sessions and speakers may still change
 ## Day 3 — 10 September 2027
 
 ::: {.schedule}
-<div class="slot"><div class="time">08:30–10:30</div><div class="event"><span class="session-title">Session 6 · Particles, Biomaterials &amp; Foreign-Body Response</span><br><span class="speakers">Herrmann, Tibbitt</span></div></div>
+<div class="slot"><div class="time">08:30–10:30</div><div class="event"><span class="session-title">Session 6 · Particles, Biomaterials &amp; Foreign-Body Response</span><br><span class="speakers">Appel, Herrmann, Tibbitt</span></div></div>
 <div class="slot"><div class="time">10:30–11:00</div><div class="event">Coffee</div></div>
-<div class="slot"><div class="time">11:00–13:00</div><div class="event"><span class="session-title">Session 7 · Peritoneal Dialysis — EuroPD Session</span><br><span class="speakers">Davies, EuroPD nominees</span></div></div>
+<div class="slot"><div class="time">11:00–13:00</div><div class="event"><span class="session-title">Session 7 · Peritoneal Dialysis — EuroPD Session</span><br><span class="speakers">Davies, Kratochwill, Raby</span></div></div>
 <div class="slot"><div class="time">13:00–13:30</div><div class="event"><span class="session-title">Awards &amp; Outlook</span><br><span class="note">Consortium report-back, poster/abstract prizes, concluding remarks</span></div></div>
 <div class="slot feature"><div class="time">13:30</div><div class="event">Grab-and-go lunch → departures</div></div>
 :::
