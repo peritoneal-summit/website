@@ -3,7 +3,9 @@ title: "Registration"
 toc: false
 ---
 
-Registration will open **January 2027**, about eight months before the Summit. This page will then list the registration link and the General Terms and Conditions. Package prices below are final.
+**Registration is open.** Registration and payment run through the ETH Zürich event registration platform.
+
+[Register now →](https://ethzurich.eventsair.com/2nd-perit-summit/regi/Site/Register){.btn .btn-primary .btn-lg}
 
 The Peritoneal Summit is kept deliberately intimate — **around 90 participants** — to encourage genuine exchange across disciplines.
 
@@ -11,13 +13,13 @@ The Peritoneal Summit is kept deliberately intimate — **around 90 participants
 
 | Date | Milestone |
 |---|---|
-| **January 2027** | Registration opens |
+| **Now open** | Registration |
 | **15 June 2027** | Abstract submission deadline · early-bird registration closes |
 | **Early July 2027** | Abstract decisions communicated |
 | **Mid-August 2027** | Accommodation booking deadline — limited rooms at the venue, book early |
 | **Until the conference** | Regular registration remains open, subject to capacity |
 
-## Provisional packages
+## Packages
 
 ::: {.pricing-grid}
 
@@ -54,17 +56,17 @@ Per night · at the conference venue
 - Conference rate, breakfast included
 - Rate code sent with your registration confirmation
 - Walking distance from sessions
-- Limited availability — book early once registration opens
+- Limited availability — book early
 :::
 
 :::
 
 All prices in CHF, including VAT. The early-bird rate applies until **15 June 2027**; the regular rate applies from 16 June 2027 until the Summit, subject to capacity. Accommodation is not included in the conference packages and is booked directly with Hotel Seaside — the conference rate code comes with your registration confirmation.
 
-## Stay informed
+## Questions
 
-Until registration opens, the best way to stay informed about deadlines and the program is to keep an eye on this page or contact the organizers (see [Contact](contact.qmd)).
+For questions about registration, contact the organizers (see [Contact](contact.qmd)).
 
 ## General Terms and Conditions
 
-The full GTCs will be published alongside registration in January 2027.
+The General Terms and Conditions are shown on the [registration platform](https://ethzurich.eventsair.com/2nd-perit-summit/regi/Site/Register) before you complete your booking.
