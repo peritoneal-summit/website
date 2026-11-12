@@ -50,8 +50,8 @@ Fill in the form below. Pressing **Send by email** opens a pre-filled email in y
       <select class="form-select" id="af-format"><option>Oral or poster</option><option>Oral</option><option>Poster</option></select></div>
     <div class="col-md-6"><label class="form-label" for="af-topic">Topic</label>
       <select class="form-select" id="af-topic"><option>Peritoneal immunity and tissue repair</option><option>Peritoneal carcinomatosis, metastasis, and surgical oncology</option><option>Endometriosis and peritoneal pathology</option><option>Peritoneal dialysis, fibrosis, and MMT</option><option>Imaging, single-cell, and spatial methods</option><option>Biomaterials, surgical mesh, and adhesion prevention</option><option>Translational and clinical studies</option><option>Other</option></select></div>
-    <div class="col-12"><label class="form-label" for="af-text">Abstract * <span class="af-count" id="af-count">0 / 300 words</span></label>
-      <textarea class="form-control" id="af-text" rows="10" required placeholder="Background, methods, results, conclusion — max. 300 words"></textarea></div>
+    <div class="col-12"><label class="form-label" for="af-text">Abstract * <span class="af-count" id="af-count">0 / 500 words</span></label>
+      <textarea class="form-control" id="af-text" rows="10" required placeholder="Background, methods, results, conclusion — max. 500 words"></textarea></div>
   </div>
   <p class="af-msg" id="af-msg" role="status"></p>
   <div class="af-actions">
@@ -61,7 +61,7 @@ Fill in the form below. Pressing **Send by email** opens a pre-filled email in y
 </form>
 <script>
 (function () {
-  var TO = "joel.zindel@biol.ethz.ch", MAXW = 300;
+  var TO = "joel.zindel@biol.ethz.ch", MAXW = 500;
   var f = document.getElementById("abstract-form"), msg = document.getElementById("af-msg");
   var v = function (id) { return document.getElementById(id).value.trim(); };
   var words = function (t) { return t ? t.split(/\s+/).length : 0; };
