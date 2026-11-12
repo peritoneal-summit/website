@@ -51,17 +51,18 @@ Three days · standard rate
 
 ::: {.price-card}
 ### Accommodation
-<p class="price-tbd">Booked directly with the hotel</p>
+<p class="price-tbd">Booked through us, paid at arrival</p>
 Per night · at the conference venue
 - Conference rate, breakfast included
-- Rate code sent with your registration confirmation
+- Book your room when you register
+- Paid at the hotel on arrival
 - Walking distance from sessions
 - Limited availability — book early
 :::
 
 :::
 
-All prices in CHF, including VAT. The early-bird rate applies until **15 June 2027**; the regular rate applies from 16 June 2027 until the Summit, subject to capacity. Accommodation is not included in the conference packages and is booked directly with Hotel Seaside — the conference rate code comes with your registration confirmation.
+All prices in CHF, including VAT. The early-bird rate applies until **15 June 2027**; the regular rate applies from 16 June 2027 until the Summit, subject to capacity. Accommodation is not included in the conference packages. You can book a room at Hotel Seaside as part of your registration: you pay the conference package online when you register, and the hotel directly on arrival.
 
 ## Questions
 
