@@ -356,3 +356,41 @@ a:hover {
   pointer-events: none;
   white-space: nowrap;
 }
+
+/* abstract submission form (mailto, no backend) */
+.abstract-form {
+  background: #fff;
+  border: 1px solid #e3e6e8;
+  border-radius: 6px;
+  padding: 1.5rem;
+  margin: 1rem 0 2rem;
+}
+
+.abstract-form .form-label {
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.abstract-form .af-count {
+  font-weight: 400;
+  color: #6b7378;
+  margin-left: 0.5rem;
+}
+
+.abstract-form .af-count.over {
+  color: #c0392b;
+  font-weight: 600;
+}
+
+.abstract-form .af-msg {
+  min-height: 1.4em;
+  margin: 1rem 0 0.5rem;
+  font-size: 0.9rem;
+  color: $primary;
+}
+
+.abstract-form .af-actions {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
