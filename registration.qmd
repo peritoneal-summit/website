@@ -49,7 +49,9 @@ Three days · standard rate
 - Free access to all workshops
 :::
 
-::: {.price-card}
+::: {.price-card .has-stamp}
+<div class="stamp" aria-hidden="true">Limited availability</div>
+
 ### Accommodation
 <p class="price-tbd">Booked through us, paid at arrival</p>
 Per night · at the conference venue

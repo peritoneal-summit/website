@@ -330,3 +330,29 @@ a:hover {
   color: #6b7378;
   font-style: italic;
 }
+
+/* rubber-stamp badge on a price card ("Limited availability") */
+.price-card.has-stamp {
+  position: relative;
+}
+
+.price-card .stamp {
+  position: absolute;
+  top: -0.7rem;
+  right: 0.9rem;
+  transform: rotate(-6deg);
+  padding: 0.15rem 0.55rem;
+  border: 2px solid #c0392b;
+  border-radius: 3px;
+  background: rgba(255, 255, 255, 0.92);
+  color: #c0392b;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  line-height: 1.3;
+  box-shadow: inset 0 0 0 1px rgba(192, 57, 43, 0.25);
+  pointer-events: none;
+  white-space: nowrap;
+}
