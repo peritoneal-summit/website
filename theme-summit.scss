@@ -357,6 +357,27 @@ a:hover {
   white-space: nowrap;
 }
 
+/* registration & abstracts: action buttons + abstract modal */
+.reg-actions {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin: 1.25rem 0;
+}
+
+.af-guidelines {
+  margin-top: 1rem;
+  padding: 1rem 1.25rem;
+  background: #f6f8f9;
+  border: 1px solid #e3e6e8;
+  border-radius: 6px;
+  font-size: 0.95rem;
+}
+
+#abstract-modal .abstract-form {
+  margin-bottom: 0;
+}
+
 /* abstract submission form (mailto, no backend) */
 .abstract-form {
   background: #fff;

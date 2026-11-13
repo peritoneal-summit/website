@@ -6,8 +6,8 @@
 - Dates: 8–10 September 2027
 - Venue: Hotel Seaside, Spiez, Switzerland
 - Format: in-person, interdisciplinary, ~90 participants
-- Registration: open (ETH Zürich registration platform, linked from the Registration page)
-- Abstract submission: open, deadline 15 June 2027 (form on the Abstracts page, sent to abstracts@peritoneal-summit.com)
+- Registration: open (ETH Zürich registration platform, linked from the Registration & Abstracts page)
+- Abstract submission: open, deadline 15 June 2027 (form on the Registration & Abstracts page, sent to abstracts@peritoneal-summit.com)
 - Organizers: Joel Zindel (ETH Zürich), Inge K. Herrmann (ETH Zürich / Empa), Erin Greaves (University of Warwick), Sarah Herrick (University of Manchester)
 - Website: https://peritoneal-summit.com
 
@@ -15,8 +15,7 @@
 - [Home](https://peritoneal-summit.com/index.html): Save-the-date overview of the Summit
 - [Program](https://peritoneal-summit.com/program.html): Provisional 3-day scientific program and session themes
 - [Speakers](https://peritoneal-summit.com/speakers.html): Organizing committee and confirmed speakers
-- [Abstracts](https://peritoneal-summit.com/abstracts.html): Abstract submission information (deadline 15 June 2027)
-- [Registration](https://peritoneal-summit.com/registration.html): Packages, key dates, and registration details
+- [Registration & Abstracts](https://peritoneal-summit.com/registration.html): Registration, packages, key dates, and abstract submission (deadline 15 June 2027)
 - [Venue](https://peritoneal-summit.com/venue.html): Spiez venue and travel information
 - [Contact](https://peritoneal-summit.com/contact.html): Organizer contact
 
