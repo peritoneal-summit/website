@@ -15,7 +15,7 @@ The repo is maintained solo by the lead organizer. Edits happen either locally (
 index.qmd            Home / Save the Date hero
 program.qmd          Provisional 3-day structure, themes
 speakers.qmd         Organizing committee + (TBD) keynote speakers
-abstracts.qmd        Submission info (opens spring 2027)
+abstracts.qmd        Call for abstracts + submission form (mailto)
 registration.qmd     Packages, prices, link to ETH registration
 venue.qmd            Spiez logistics, accommodation
 contact.qmd          Organizer contact details

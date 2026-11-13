@@ -34,7 +34,7 @@ Best-poster and best-talk awards will be granted, as they were at the 2025 Summi
 
 ## Submit an abstract {#submit}
 
-Fill in the form below. Pressing **Send by email** opens a pre-filled email in your mail program, addressed to the organizers — just press send. If no mail program opens, use **Copy text** and send it to [joel.zindel@biol.ethz.ch](mailto:joel.zindel@biol.ethz.ch) with the subject "Abstract submission". You will receive a confirmation once we have it.
+Fill in the form below. Pressing **Send by email** opens a pre-filled email in your mail program, addressed to abstracts@peritoneal-summit.com — just press send. If no mail program opens, use **Copy text** and send it to [abstracts@peritoneal-summit.com](mailto:abstracts@peritoneal-summit.com) with the subject "Abstract submission". You will receive a confirmation once we have it.
 
 ```{=html}
 <form id="abstract-form" class="abstract-form" novalidate>
@@ -61,7 +61,7 @@ Fill in the form below. Pressing **Send by email** opens a pre-filled email in y
 </form>
 <script>
 (function () {
-  var TO = "joel.zindel@biol.ethz.ch", MAXW = 500;
+  var TO = "abstracts@peritoneal-summit.com", MAXW = 500;
   var f = document.getElementById("abstract-form"), msg = document.getElementById("af-msg");
   var v = function (id) { return document.getElementById(id).value.trim(); };
   var words = function (t) { return t ? t.split(/\s+/).length : 0; };
