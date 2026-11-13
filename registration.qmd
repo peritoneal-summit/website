@@ -66,6 +66,11 @@ Per night · at the conference venue
 
 All prices in CHF, including VAT. The early-bird rate applies until **15 June 2027**; the regular rate applies from 16 June 2027 until the Summit, subject to capacity. Accommodation is not included in the conference packages. You can book a room at Hotel Seaside as part of your registration: you pay the conference package online when you register, and the hotel directly on arrival.
 
+::: {.callout-warning}
+## Beware of accommodation scams
+Rooms at Hotel Seaside are booked only as part of your registration and paid at the hotel on arrival. Conference fees are paid only through the ETH Zürich registration platform linked on this page. **We never ask for advance payment for accommodation, and we do not work with any housing agency or travel bureau.** If someone contacts you offering rooms or registration for the Peritoneal Summit, it is not from us — please do not pay, and let us know via the [Contact](contact.qmd) page.
+:::
+
 ## Questions
 
 For questions about registration, contact the organizers (see [Contact](contact.qmd)).

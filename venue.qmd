@@ -50,6 +50,11 @@ The hotel hosts coffee breaks, lunches, and the networking dinner on-site. The m
 
 Conference rates at Hotel Seaside are available to registered attendees. You book your room when you register; the conference package is paid online at registration, the room at the hotel on arrival. If the on-site block fills, Spiez has several walking-distance hotels and B&Bs we can recommend.
 
+::: {.callout-warning}
+## Beware of accommodation scams
+Rooms at Hotel Seaside are booked only as part of your registration and paid at the hotel on arrival. Conference fees are paid only through the ETH Zürich registration platform linked on the [Registration](registration.qmd) page. **We never ask for advance payment for accommodation, and we do not work with any housing agency or travel bureau.** If someone contacts you offering rooms or registration for the Peritoneal Summit, it is not from us — please do not pay, and let us know via the [Contact](contact.qmd) page.
+:::
+
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6}
