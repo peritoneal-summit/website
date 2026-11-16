@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: _site
+  post-render: _scripts/llms_full.py
   # CNAME pins the live custom domain (peritoneal-summit.com) across deploys.
   resources:
     - CNAME

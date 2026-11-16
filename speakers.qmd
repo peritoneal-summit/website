@@ -183,6 +183,7 @@ More speakers will be added as confirmations come in.
 ### Joel Zindel
 <p class="role">Co-organizer</p>
 <p class="affiliation">ETH Zürich · Institute of Molecular Health Sciences</p>
+<p class="affiliation"><a href="https://zindellab.ch">zindellab.ch</a></p>
 :::
 
 :::

@@ -11,6 +11,9 @@
 - Organizers: Joel Zindel (ETH Zürich), Inge K. Herrmann (ETH Zürich / Empa), Erin Greaves (University of Warwick), Sarah Herrick (University of Manchester)
 - Website: https://peritoneal-summit.com
 
+## Topics
+Peritoneal immunity and cavity macrophages; peritoneal repair, scarring and post-surgical adhesions; mesothelium, mesothelial-to-mesenchymal transition and fibrosis; thromboinflammation; the peritoneal niche, omentum and metabolism; Crohn's disease and the peritoneal cavity; endometriosis and pain; particles, biomaterials and the foreign-body response; peritoneal dialysis (session organized by EuroPD); peritoneal metastasis.
+
 ## Pages
 - [Home](https://peritoneal-summit.com/index.html): Save-the-date overview of the Summit
 - [Program](https://peritoneal-summit.com/program.html): Provisional 3-day scientific program and session themes
@@ -18,6 +21,7 @@
 - [Registration & Abstracts](https://peritoneal-summit.com/registration.html): Registration, packages, key dates, and abstract submission (deadline 15 June 2027)
 - [Venue](https://peritoneal-summit.com/venue.html): Spiez venue and travel information
 - [Contact](https://peritoneal-summit.com/contact.html): Organizer contact
+- [Full text for LLMs](https://peritoneal-summit.com/llms-full.txt): complete program with sessions, speakers and talk titles in plain text
 
 ## Background
 - The 1st Peritoneal Summit was held in Pontresina, Switzerland, 15–17 January 2025.
