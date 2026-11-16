@@ -20,7 +20,7 @@ This is the provisional programme. Times, sessions and speakers may still change
 <div class="slot"><div class="time">16:00–16:30</div><div class="event">Coffee</div></div>
 <div class="slot"><div class="time">16:30–18:30</div><div class="event"><span class="session-title">Session 2 · Thromboinflammation</span><ul class="talks"><li><span class="who">Paul Kubes</span> — <span class="talk">How does the peritoneum heal?</span></li><li><span class="who">Justin Deniset</span> — <span class="talk tbd">Title TBD</span></li><li><span class="who">Samuel Carmichael II</span> — <span class="talk">The Peritoneal Thromboinflammatory Environment During Abdominal Adhesions Formation</span></li></ul></div></div>
 <div class="slot feature"><div class="time">19:00</div><div class="event">Standing dinner &amp; poster session</div></div>
-<div class="slot feature"><div class="time">20:30</div><div class="event">Fireside Chats <span class="note">(parallel)</span><ul class="sub"><li>"Is the mouse the right model?"</li><li>"What peritoneal implants do we need?"</li></ul></div></div>
+<div class="slot feature"><div class="time">20:30</div><div class="event">Fireside Chats <span class="note">(parallel)</span><ul class="sub"><li>"Is the mouse the right model?" — starting with peritoneal macrophages: where do we disagree?</li><li>"What peritoneal implants do we need?"</li></ul></div></div>
 :::
 
 ## Day 2 — 9 September 2027
