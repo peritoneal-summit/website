@@ -101,6 +101,55 @@ The General Terms and Conditions are shown on the [registration platform](https:
 ::: {.modal-body}
 Deadline **15 June 2027** · decisions in early July 2027. Submitting an abstract does not register you — please [register](https://ethzurich.eventsair.com/2nd-perit-summit/regi/Site/Register) separately.
 
+```{=html}
+<div class="abstract-form">
+  <p class="mb-2">Email your abstract to <strong id="af-addr">abstracts@peritoneal-summit.com</strong>
+    <button type="button" class="btn btn-sm btn-link p-0 ms-1 align-baseline" id="af-copy-addr">Copy address</button></p>
+  <p class="mb-3">The button below opens a new email with the address, subject and an empty template. Fill it in and press send. If nothing opens, copy the template and send it from any email account.</p>
+  <div class="af-actions">
+    <a class="btn btn-primary" id="af-mailto" href="mailto:abstracts@peritoneal-summit.com?subject=Abstract%20submission">Open email with template</a>
+    <button type="button" class="btn btn-outline-primary" id="af-copy">Copy template</button>
+  </div>
+  <p class="af-msg" id="af-msg" role="status"></p>
+  <pre class="af-template" id="af-template">Presenting author:
+Email:
+Institution:
+Career stage (student / postdoc / group leader / clinician / industry / other):
+All authors and affiliations:
+Preferred format (oral / poster / either):
+Topic:
+
+Title:
+
+Abstract (max. 500 words):
+</pre>
+</div>
+<script>
+(function () {
+  var TO = "abstracts@peritoneal-summit.com", SUBJ = "Abstract submission";
+  var tpl = document.getElementById("af-template").textContent;
+  var msg = document.getElementById("af-msg");
+  document.getElementById("af-mailto").href =
+    "mailto:" + TO + "?subject=" + encodeURIComponent(SUBJ) + "&body=" + encodeURIComponent(tpl);
+  function copy(text, ok) {
+    (navigator.clipboard ? navigator.clipboard.writeText(text) : Promise.reject()).then(
+      function () { msg.textContent = ok; },
+      function () { msg.textContent = "Copying failed — please select the text and copy it manually."; });
+  }
+  document.getElementById("af-copy").addEventListener("click", function () {
+    copy(tpl, "Template copied. Paste it into an email to " + TO + " with the subject “" + SUBJ + "”.");
+  });
+  document.getElementById("af-copy-addr").addEventListener("click", function () {
+    copy(TO, "Address copied.");
+  });
+  var m = document.getElementById("abstract-modal");
+  if (["#abstract", "#submit"].indexOf(window.location.hash) >= 0 && window.bootstrap) {
+    bootstrap.Modal.getOrCreateInstance(m).show();
+  }
+})();
+</script>
+```
+
 [Guidelines & instructions ▾](#af-guidelines){.btn .btn-sm .btn-outline-secondary data-bs-toggle="collapse" role="button" aria-expanded="false" aria-controls="af-guidelines"}
 
 ::: {#af-guidelines .collapse .af-guidelines}
@@ -118,76 +167,8 @@ Deadline **15 June 2027** · decisions in early July 2027. Submitting an abstrac
 
 **Awards.** Best-poster and best-talk awards will be granted, as they were at the 2025 Summit. Students and early-career researchers are especially encouraged to submit.
 
-**How to send.** Abstracts are limited to 500 words. Pressing **Send by email** opens a pre-filled email in your mail program, addressed to abstracts@peritoneal-summit.com — just press send. If no mail program opens, use **Copy text** and send it to [abstracts@peritoneal-summit.com](mailto:abstracts@peritoneal-summit.com) with the subject "Abstract submission". You will receive a confirmation once we have it.
+**How to send.** Abstracts are limited to 500 words. Paste the abstract into the email or attach it as a Word or PDF file. You will receive a confirmation once we have it.
 :::
-
-```{=html}
-<form id="abstract-form" class="abstract-form" novalidate>
-  <div class="row g-3">
-    <div class="col-md-6"><label class="form-label" for="af-name">Presenting author *</label><input class="form-control" id="af-name" required></div>
-    <div class="col-md-6"><label class="form-label" for="af-email">Email *</label><input class="form-control" id="af-email" type="email" required></div>
-    <div class="col-md-6"><label class="form-label" for="af-affil">Institution *</label><input class="form-control" id="af-affil" required></div>
-    <div class="col-md-6"><label class="form-label" for="af-stage">Career stage</label>
-      <select class="form-select" id="af-stage"><option>Student (undergraduate / graduate)</option><option>Postdoc / early-career</option><option>Group leader / faculty</option><option>Clinician</option><option>Industry</option><option>Other</option></select></div>
-    <div class="col-12"><label class="form-label" for="af-authors">All authors and affiliations</label><input class="form-control" id="af-authors" placeholder="e.g. A. Author¹, B. Author² — ¹University of …, ²…"></div>
-    <div class="col-12"><label class="form-label" for="af-title">Abstract title *</label><input class="form-control" id="af-title" required></div>
-    <div class="col-md-6"><label class="form-label" for="af-format">Preferred format</label>
-      <select class="form-select" id="af-format"><option>Oral or poster</option><option>Oral</option><option>Poster</option></select></div>
-    <div class="col-md-6"><label class="form-label" for="af-topic">Topic</label>
-      <select class="form-select" id="af-topic"><option>Peritoneal immunity and tissue repair</option><option>Peritoneal carcinomatosis, metastasis, and surgical oncology</option><option>Endometriosis and peritoneal pathology</option><option>Peritoneal dialysis, fibrosis, and MMT</option><option>Imaging, single-cell, and spatial methods</option><option>Biomaterials, surgical mesh, and adhesion prevention</option><option>Translational and clinical studies</option><option>Other</option></select></div>
-    <div class="col-12"><label class="form-label" for="af-text">Abstract * <span class="af-count" id="af-count">0 / 500 words</span></label>
-      <textarea class="form-control" id="af-text" rows="10" required placeholder="Background, methods, results, conclusion — max. 500 words"></textarea></div>
-  </div>
-  <p class="af-msg" id="af-msg" role="status"></p>
-  <div class="af-actions">
-    <button type="submit" class="btn btn-primary">Send by email</button>
-    <button type="button" class="btn btn-outline-primary" id="af-copy">Copy text</button>
-  </div>
-</form>
-<script>
-(function () {
-  var TO = "abstracts@peritoneal-summit.com", MAXW = 500;
-  var f = document.getElementById("abstract-form"), msg = document.getElementById("af-msg");
-  var v = function (id) { return document.getElementById(id).value.trim(); };
-  var words = function (t) { return t ? t.split(/\s+/).length : 0; };
-  var txt = document.getElementById("af-text"), cnt = document.getElementById("af-count");
-  txt.addEventListener("input", function () {
-    var n = words(txt.value.trim()); cnt.textContent = n + " / " + MAXW + " words";
-    cnt.classList.toggle("over", n > MAXW);
-  });
-  function check() {
-    var miss = ["af-name", "af-email", "af-affil", "af-title", "af-text"].filter(function (id) { return !v(id); });
-    if (miss.length) { msg.textContent = "Please fill in all fields marked *."; document.getElementById(miss[0]).focus(); return false; }
-    if (words(v("af-text")) > MAXW) { msg.textContent = "The abstract is over " + MAXW + " words."; txt.focus(); return false; }
-    msg.textContent = ""; return true;
-  }
-  function body() {
-    return "ABSTRACT SUBMISSION — Peritoneal Summit 2027\n\n" +
-      "Presenting author: " + v("af-name") + "\nEmail: " + v("af-email") + "\nInstitution: " + v("af-affil") +
-      "\nCareer stage: " + v("af-stage") + "\nAll authors: " + v("af-authors") +
-      "\nPreferred format: " + v("af-format") + "\nTopic: " + v("af-topic") +
-      "\n\nTitle: " + v("af-title") + "\n\n" + v("af-text") + "\n";
-  }
-  function subject() { return "Abstract submission: " + v("af-title"); }
-  f.addEventListener("submit", function (e) {
-    e.preventDefault(); if (!check()) return;
-    window.location.href = "mailto:" + TO + "?subject=" + encodeURIComponent(subject()) + "&body=" + encodeURIComponent(body());
-    msg.textContent = "Your mail program should open with the abstract filled in — please press send there. Nothing opened? Use “Copy text”.";
-  });
-  document.getElementById("af-copy").addEventListener("click", function () {
-    if (!check()) return;
-    var t = "To: " + TO + "\nSubject: " + subject() + "\n\n" + body();
-    (navigator.clipboard ? navigator.clipboard.writeText(t) : Promise.reject()).then(
-      function () { msg.textContent = "Copied. Paste it into an email to " + TO + "."; },
-      function () { msg.textContent = "Copying failed — please select and copy the abstract manually and email it to " + TO + "."; });
-  });
-  var m = document.getElementById("abstract-modal");
-  if (["#abstract", "#submit"].indexOf(window.location.hash) >= 0 && window.bootstrap) {
-    bootstrap.Modal.getOrCreateInstance(m).show();
-  }
-})();
-</script>
-```
 
 :::
 :::
